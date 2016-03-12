@@ -1,0 +1,8 @@
+umask 022
+export PATH=/bin
+
+for i in /etc/profile.d/*
+do
+	. $i
+done
+unset i

@@ -1,0 +1,10 @@
+#!/bin/sh
+
+cd /etc/init.d
+for i in *
+do
+	[ -x $i ] && ./$i start
+done
+
+echo
+exec vtman

@@ -1,0 +1,22 @@
+                  _    _ _                         _
+ _ __   __ _  ___| | _| (_)_ __ ___        ___  __| |
+| '_ \ / _` |/ __| |/ / | | '_ ` _ \ _____/ __|/ _` |
+| |_) | (_| | (__|   <| | | | | | | |_____\__ \ (_| |
+| .__/ \__,_|\___|_|\_\_|_|_| |_| |_|     |___/\__,_|
+|_|
+
+Overview
+========
+
+packlim-sd is a Linux-libre (http://www.fsfla.org/ikiwiki/selibre/linux-libre)
+distribution built on top of packlim (https://github.com/dimkr/packlim) and
+packages built using packlim-recipes (https://github.com/dimkr/packlim-recipes).
+
+Credits and Legal Information
+=============================
+
+packlim-sd is free and unencumbered software released under the terms of
+the MIT license; see COPYING for the license text. For a list of its authors and
+contributors, see AUTHORS.
+
+The ASCII art logo at the top was made using FIGlet (http://www.figlet.org/).
